@@ -5,4 +5,4 @@ The telemetric data is read using an arduino and transmitted wirelessly to a ser
 
 This application does not utilize 100% of the information coming in from the arduino, but it does display the most relevant things.
 
-GUI is made usibng pyqt5
+GUI is made using pyqt5
